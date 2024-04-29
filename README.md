@@ -79,10 +79,19 @@ Installation position: floor, ceiling, walls.
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
-3. click on the 
+3.click on the task builder and create a new task.
+4.Name the task as pick and place and build the task.
 
 
+## Program (Task List):
+![Screenshot 2024-04-29 124430](https://github.com/nithish467/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150232274/c9216e3f-265f-4fe2-aa77-863175f251d8)
 
+![Screenshot 2024-04-29 124445](https://github.com/nithish467/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150232274/0a1310df-d476-4eee-b671-e84e0f2afa32)
+
+![Screenshot 2024-04-29 124458](https://github.com/nithish467/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150232274/62612491-c634-4668-8b91-dac6a7270b49)
+
+
+![Screenshot 2024-04-29 124512](https://github.com/nithish467/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150232274/7eab627a-7295-46fa-ae4e-4587af594e91)
 
 
 
@@ -100,6 +109,27 @@ and click on the connect icon
 
 ### output video and screen shots of pick and place 
 
+## PICK:
+![Screenshot 2024-04-29 124656](https://github.com/nithish467/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150232274/eebe290c-816d-4ee1-82f6-5c51f494cad2)
+
+![Screenshot 2024-04-29 124706](https://github.com/nithish467/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150232274/28a72666-cbe5-4f58-b455-2371f41dfe7f)
+
+![Screenshot 2024-04-29 124715](https://github.com/nithish467/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150232274/b8c526df-9d2c-49e7-b3d7-1a2481c69863)
+
+## PLACE:
+
+![Screenshot 2024-04-29 124729](https://github.com/nithish467/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150232274/59d29d8e-2396-4d95-9d03-e756f12a3bd4)
+
+
+![Screenshot 2024-04-29 124741](https://github.com/nithish467/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150232274/3b251921-e3a1-4271-bdce-b90574e5b2ad)
+
+
+
+
+
+
+
+
 
 
 
@@ -107,6 +137,7 @@ and click on the connect icon
 
 
 ### Results: 
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
